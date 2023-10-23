@@ -1,0 +1,10 @@
+D:\3 kурс\3 курс\практика\Волога_Модуль5\Vologa_Modul5\Vologa_Modul5\bin\Debug\Vologa_Modul5.exe.config
+D:\3 kурс\3 курс\практика\Волога_Модуль5\Vologa_Modul5\Vologa_Modul5\bin\Debug\Vologa_Modul5.exe
+D:\3 kурс\3 курс\практика\Волога_Модуль5\Vologa_Modul5\Vologa_Modul5\bin\Debug\Vologa_Modul5.pdb
+D:\3 kурс\3 курс\практика\Волога_Модуль5\Vologa_Modul5\Vologa_Modul5\obj\Debug\Vologa_Modul5.csproj.AssemblyReference.cache
+D:\3 kурс\3 курс\практика\Волога_Модуль5\Vologa_Modul5\Vologa_Modul5\obj\Debug\Vologa_Modul5.Form1.resources
+D:\3 kурс\3 курс\практика\Волога_Модуль5\Vologa_Modul5\Vologa_Modul5\obj\Debug\Vologa_Modul5.Properties.Resources.resources
+D:\3 kурс\3 курс\практика\Волога_Модуль5\Vologa_Modul5\Vologa_Modul5\obj\Debug\Vologa_Modul5.csproj.GenerateResource.cache
+D:\3 kурс\3 курс\практика\Волога_Модуль5\Vologa_Modul5\Vologa_Modul5\obj\Debug\Vologa_Modul5.csproj.CoreCompileInputs.cache
+D:\3 kурс\3 курс\практика\Волога_Модуль5\Vologa_Modul5\Vologa_Modul5\obj\Debug\Vologa_Modul5.exe
+D:\3 kурс\3 курс\практика\Волога_Модуль5\Vologa_Modul5\Vologa_Modul5\obj\Debug\Vologa_Modul5.pdb
